@@ -195,7 +195,7 @@ footer {
     justify-content: space-around;
   }
   .hero {
-    background-image: url('https://raw.githubusercontent.com/pedroaojunior/vipcopy/main/img//Gemini_Generated_Image_qojs7bqojs7bqojs.jpeg'); /* Substitua por sua imagem */
+    background-image: url('https://raw.githubusercontent.com/pedroaojunior/vipcopy/main/img/Gemini_Generated_Image_qojs7bqojs7bqojs.jpeg'); /* Substitua por sua imagem */
     /* 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Noritsu_Koki_QSS-3301Digital.jpg'  */
     background-size: cover;
     background-position: center;
@@ -471,7 +471,7 @@ nav {
   background-color: #f0a82d;
 }
 .hero-serv {
-  background-image: url(img/cenimp.jpeg); /* Substitua por sua imagem */
+  background-image: url('https://raw.githubusercontent.com/pedroaojunior/vipcopy/main/img/cenimp.jpeg'); /* Substitua por sua imagem */
   /* 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Noritsu_Koki_QSS-3301Digital.jpg'  */
   background-size: cover;
   background-position: center;
@@ -505,7 +505,7 @@ nav {
 }
   
 .hero-cont{
-  background-image: url(img/contato02.jpeg); /* Substitua por sua imagem */
+  background-image: url('https://raw.githubusercontent.com/pedroaojunior/vipcopy/main/img/contato02.jpeg'); /* Substitua por sua imagem */
   /* 'https://upload.wikimedia.org/wikipedia/commons/b/b3/Noritsu_Koki_QSS-3301Digital.jpg'  */
   background-size: cover;
   background-position: center;
